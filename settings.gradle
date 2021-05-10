@@ -1,0 +1,2 @@
+rootProject.name = "Senai"
+include ':app'
